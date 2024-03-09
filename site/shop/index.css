@@ -1,0 +1,76 @@
+
+@import url(//db.onlinewebfonts.com/c/2167e76f00e569cc11b3665679996380?family=Futura+Light);
+body
+{
+	font-family: "Futura Light";
+}
+.content
+{
+	width: 77%;
+	height: 350px;
+	float: right;
+}
+.content ul
+{
+	margin: 0;
+	padding: 0;
+}
+.side-bar
+{
+	width: 21%;
+	height: 35px;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+.side-bar li
+{
+	color: #fff;
+	padding-left:10px ;
+	margin-top: 20px;
+	border-radius: 20px;
+	list-style: none;
+	border: 1px #9AD57E solid;
+	background-color: rgba(119,188,63,0.8);
+	cursor: pointer;
+}
+.content li
+{
+	list-style: none;
+	display: none;
+}
+/*   Aici trebuie de bagat pe server, e pur si simplu exemplu */
+.content img
+{
+	margin:15px 0 0 15px;
+	height: 300px;
+	width: 30%;
+}
+footer
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 498px;
+}
+.ico
+{
+  margin-left: 10px;
+  width: 40px;
+}
+#contacts
+{
+	width: 100%;
+}
+#apel
+{
+	width: 40%;
+	float: left;
+	margin-left: 40px;
+	color: #fff;
+}
+#social
+{
+	width: 21%;
+	float: right;
+}

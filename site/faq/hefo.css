@@ -1,0 +1,44 @@
+
+body
+{
+	margin: 0;
+	padding: 0;
+}
+header
+{
+	height: 90px;
+	background-color: #77BC3F;
+}
+header ul
+{
+	margin-top: 34px;
+	list-style: none;
+	margin-right: 45px;
+}
+header li
+{
+	margin-right: 5px;
+	display: inline-block;
+	border: 1px solid #fff;
+	border-radius: 20px;
+}
+header a
+{
+	text-decoration: none;
+	color: #fff;
+	font-size: 22px;
+	padding: 20px;
+}
+footer
+{
+	height: 116px;
+	background: #77BC3F;
+}
+.logo
+{
+	height: 90px;
+}
+.nav
+{
+	float: right;
+}
